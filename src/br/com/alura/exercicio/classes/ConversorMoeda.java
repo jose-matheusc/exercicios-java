@@ -1,4 +1,6 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.classes;
+
+import src.br.com.alura.exercicio.interfaces.ConversaoFinanceira;
 
 public class ConversorMoeda implements ConversaoFinanceira {
     private double dolar = 4.92;

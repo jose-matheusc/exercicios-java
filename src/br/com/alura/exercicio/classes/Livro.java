@@ -1,4 +1,4 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.classes;
 
 public class Livro {
     private String titulo;

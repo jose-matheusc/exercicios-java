@@ -1,4 +1,4 @@
-package src.br.com.alura.calculo;
+package src.br.com.alura;
 
 public class FiltroRemomendacao {
     private String recomendacao;

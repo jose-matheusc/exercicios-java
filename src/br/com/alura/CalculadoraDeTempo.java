@@ -1,4 +1,4 @@
-package src.br.com.alura.calculo;
+package src.br.com.alura;
 
 public class CalculadoraDeTempo {
     private int tempoTotal;

@@ -1,4 +1,6 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.principais;
+
+import src.br.com.alura.exercicio.classes.ConversorMoeda;
 
 public class Principal3 {
     public static void main(String[] args) {

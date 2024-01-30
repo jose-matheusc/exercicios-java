@@ -1,4 +1,7 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.principais;
+
+import src.br.com.alura.exercicio.classes.Musica;
+import src.br.com.alura.exercicio.classes.Pessoa;
 
 public class Principal{
 

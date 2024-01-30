@@ -1,5 +1,8 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.classes;
 
+/**
+ * @author josem
+ */
 public class Aluno {
     String nome;
     int idade;

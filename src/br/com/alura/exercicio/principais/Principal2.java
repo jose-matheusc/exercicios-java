@@ -1,4 +1,7 @@
-package src.exercicio;
+package src.br.com.alura.exercicio.principais;
+
+import src.br.com.alura.exercicio.classes.IdadePessoa;
+import src.br.com.alura.exercicio.classes.Livro;
 
 public class Principal2 {
 

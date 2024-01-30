@@ -1,4 +1,4 @@
-package src.br.com.alura.screematch.modulos;
+package src.br.com.alura.modulos;
 
 public interface Classificavel {
     int getClassificacao();
