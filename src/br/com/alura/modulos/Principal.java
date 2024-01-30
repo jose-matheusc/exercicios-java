@@ -1,8 +1,5 @@
 package src.br.com.alura.screematch.modulos;
 
-import src.br.com.alura.calculo.CalculadoraDeTempo;
-import src.br.com.alura.calculo.FiltroRemomendacao;
-
 public class Principal {
     public static void main(String[] args) {
 

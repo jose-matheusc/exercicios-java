@@ -1,7 +1,5 @@
 package src.br.com.alura.calculo;
 
-import src.br.com.alura.screematch.modulos.Classificavel;
-
 public class FiltroRemomendacao {
     private String recomendacao;
 
